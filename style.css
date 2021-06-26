@@ -1,0 +1,23 @@
+.main {
+}
+.conteiner {
+	width: 500px;
+	height: 700px;
+	border: 10px solid black;
+	background: blue;
+	color: white;
+	margin-left: 10px;
+	box-sizing: content-box;
+}
+.image {
+	width: 500px;
+	height: 500px;
+}
+.title {
+	text-align: center;
+	border-bottom: 10px solid black;
+	font-size: 30px;
+}
+.text {
+	padding: 10px;
+}
