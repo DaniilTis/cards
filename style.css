@@ -1,8 +1,11 @@
 .main {
+	background: orange;
 }
 .conteiner {
+	display: inline-block;
+	vertical-align: top;
 	width: 500px;
-	height: 700px;
+	height: 750px;
 	border: 10px solid black;
 	background: blue;
 	color: white;
